@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank">AI_Laravel</a></p>
+<p align="center"><h1>AI_Laravel</h1></p>
 
 
 ## About Project
