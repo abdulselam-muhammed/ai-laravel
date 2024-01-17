@@ -9,6 +9,3 @@ Ai-Laravel Project it`s work by openai techonolji
 - Use Cases.
 
 - **[To access project files](https://github.com/abdulselam-muhammed/ai-laravel/tree/master)**
-
-## Nice Work
-
