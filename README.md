@@ -4,7 +4,7 @@
 
 ## About Project
 
-Ai-Laravel Project it`s work by openai techonolji
+Ai_Laravel is a project that operates using open.ai technology through an API.
 - Chat with bot.
 - Use Cases.
 
