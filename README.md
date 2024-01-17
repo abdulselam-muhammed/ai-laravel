@@ -1,4 +1,4 @@
-<h1 align="center">AI_Laravel</h1>
+<h1 align="center">AI Laravel</h1>
 
 
 ## About Project
