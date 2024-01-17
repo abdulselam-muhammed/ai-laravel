@@ -21,9 +21,12 @@ It contains the necessary code for the user to create an affiliate link.
 
 - **[Folders Controller](https://github.com/abdulselam-muhammed/ai-laravel/blob/master/src/Http/Controllers/User/Folders.php)**
 It contains a folder management system and coordinates it with the subfolders
+
 - **[Team Controllers](https://github.com/abdulselam-muhammed/ai-laravel/tree/master/src/Http/Controllers/User/Team)**
 It includes a team management system, creation, and processing of login operations through an invitation link.
 
+- **[Subscription]**
+The subscription processes are coordinated according to the izyco document.
 
 
 ## Nice Work
